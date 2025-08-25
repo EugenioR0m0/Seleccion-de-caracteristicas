@@ -39,6 +39,6 @@ El propósito del proyecto es aplicar técnicas de **selección de característi
 - **Scikit-learn** para modelos y métricas  
 - **mlxtend** para selección secuencial de características
 
-- [Reporte en ipynb](Regresion_M.ipynb)
-- [Reporte en html](Regresion_M.html)
-- [Base de datos](Base_de_Datos_NASA.csv)
+- [Reporte en ipynb](Seleccion_Caracteristicas.ipynb)
+- [Reporte en html](Seleccion_Caracteristicas.html)
+- [Base de datos](Datos_Vino_Tinto.csv)
